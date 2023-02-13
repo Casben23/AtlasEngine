@@ -1,4 +1,5 @@
 #include <Atlas.h>
+#include "Atlas/Log.h"
 
 class Sandbox : public Atlas::Application
 {

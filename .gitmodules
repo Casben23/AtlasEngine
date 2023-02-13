@@ -1,0 +1,3 @@
+[submodule "AtlasEngine/AtlasEngine/vendor/spdlog"]
+	path = AtlasEngine/AtlasEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
